@@ -1,2 +1,3 @@
-# devinpi.github.io
-Website for Personal Blog
+Site under progress.
+
+Thank you for visiting!!
